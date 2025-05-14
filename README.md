@@ -1,4 +1,4 @@
-# Alfred's Party Planning Agent 🦇🎉
+# Alfred-Agentic-RAG🦇🎉
 
 *A Retrieval-Augmented Agent with Web Search & Custom Knowledge Base*
 
